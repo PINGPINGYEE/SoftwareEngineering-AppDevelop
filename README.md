@@ -1,5 +1,5 @@
 # 밝게(Brightly) 앱
-
+> 원본 파일: https://github.com/KIMMIN5/Brightly
 ----
 ## 📖Description
 
